@@ -3,23 +3,24 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "f40200204f95ab0d712b44b1e5a58073",
-"index.html": "e9cc1c1348489528601fb6575e22d1b4",
-"/": "e9cc1c1348489528601fb6575e22d1b4",
-"main.dart.js": "f31bf15ee107637cff770cfffa72472f",
+  "version.json": "165218a84a61629341c5bb9070e23cdd",
+"index.html": "089d1e5091b41c1fed4b9e8fe5c036cc",
+"/": "089d1e5091b41c1fed4b9e8fe5c036cc",
+"main.dart.js": "08988eb9a5e1cac904d48031ef018451",
 "favicon.png": "b1bd283b8fbb3e2737e828e028e6ff79",
 "icons/Icon-192.png": "81d732e438855c7d1a32a6f46709c740",
 "icons/Icon-512.png": "e9cd95cf60b6eefaf1021c862398c96b",
 "manifest.json": "ea3d6bf7158c6ae025d3eddfa14ea3e3",
-"assets/AssetManifest.json": "ab9ed1057e7a16306b886908261672ba",
+"assets/AssetManifest.json": "3cf32ba2d7a1b5aa0677c787f3234eb6",
 "assets/NOTICES": "3932b49c238a0ee75f868bce32f54da2",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/assets/2.0x/setup_hidden_pref_dir.png": "d33540a992f965a78d6dfc174f33b478",
+"assets/assets/2.0x/setup_hidden_pref_dir.png": "ce4d603ee388ef2391a63c7c47cb7b50",
 "assets/assets/2.0x/ic_dark_mode_switch_24dp.png": "7848fff983773bab499f25265469f94c",
-"assets/assets/setup_hidden_pref_dir.png": "27caef0ae8bfe6cf5a971034a4970b88",
-"assets/assets/ic_dark_mode_switch_24dp.png": "80e7d18e374da54b45f66169a88ed4c9"
+"assets/assets/setup_hidden_pref_dir.png": "ce4d603ee388ef2391a63c7c47cb7b50",
+"assets/assets/ic_dark_mode_switch_24dp.png": "80e7d18e374da54b45f66169a88ed4c9",
+"assets/assets/cert.pfx": "01b2467812ef60506ad563b09236051b"
 };
 
 // The application shell files that are downloaded before a service worker can
